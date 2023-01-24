@@ -1,1 +1,6 @@
-Los Sangheili son originarios del planeta Sanghelios. El sistema planetario donde está el planeta tiene tres estrellas: siendo Urs la principal, también están Fied y Joori. Sanghelios es la posición número cuatro del sistema solar. El planeta cuenta con dos lunas: Qikost y Suban. Sanghelios es un planeta parecido a la Tierra pero de clima más caliente (con temperaturas mínimas de -5;°C hasta 99;°C). Tiene una gravedad de 1.375 G y una atmósfera de 0.9 atm [ N2, O2 y Ar] (La Tierra posee 1G en gravedad y 1 atm en atmósfera). Sanghelios tiene una población estimada de 8.135 mil millones de habitantes. Se rigen en un sistema feudal militar donde gobiernan los Patriarcas, y su forma de gobierno es la Hegemonía Religiosa.
+Los Sangheili son originarios del planeta Sanghelios. El sistema planetario donde está el planeta tiene tres estrellas: 
+siendo Urs la principal, también están Fied y Joori. Sanghelios es la posición número cuatro del sistema solar. El planeta cuenta 
+con dos lunas: Qikost y Suban. Sanghelios es un planeta parecido a la Tierra pero de clima más caliente (con temperaturas mínimas de -5;°C hasta 99;°C). 
+Tiene una gravedad de 1.375 G y una atmósfera de 0.9 atm [ N2, O2 y Ar] (La Tierra posee 1G en gravedad y 1 atm en atmósfera).
+
+Sanghelios tiene una población estimada de 8.135 mil millones de habitantes. Se rigen en un sistema feudal militar donde gobiernan los Patriarcas, y su forma de gobierno es la Hegemonía Religiosa.
